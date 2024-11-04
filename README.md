@@ -1,2 +1,10 @@
-# Cardiovascular-Diseases-SA
-Analysis of Cardiovascular Diseases in South Africa
+# Cardiovascular-Diseases-SA/
+├── data/
+│   ├── raw/
+│   ├── processed/
+├── notebooks/
+├── src/
+├── requirements.txt
+├── README.md
+└── .gitignore
+
